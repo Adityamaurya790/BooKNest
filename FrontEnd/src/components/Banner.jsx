@@ -3,10 +3,10 @@ import aditya from "../../public/rename.png";
 
 function banner() {
   return <>
-  <div className="max-w-screen-2xl order-2 container max-auto md:px-20 px-4 flex flex-col md:flex-row my-10 ">
+  <div className="max-w-screen-2xl order-2 container max-auto md:px-20 px-4 flex flex-col md:flex-row my-10 dark:bg-slate-900 dark:text-white">
     <div class="w-full order-2 md:order-1 md:w-1/2 mt:12  md:mt-32">
       <div className='space-y-12'>
-      <h1 className='text-4xl font-bold'>
+      <h1 className='text-4xl font-bold '>
         HELLO ! EVERYONE HOW ARE YOU WELCOME HERE TO <br/> 
         <span className='text-pink-500'>LEARN SOMETHING NEW </span>
       </h1>

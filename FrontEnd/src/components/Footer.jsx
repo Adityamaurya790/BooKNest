@@ -5,7 +5,7 @@ function Footer() {
     <>
       <div>
         <hr/>
-        <footer className="footer p-10  text-neutral-content">
+        <footer className="footer p-10  text-neutral-content dark:bg-slate-900 dark:text-white">
           <aside>
             <svg
               width="50"
