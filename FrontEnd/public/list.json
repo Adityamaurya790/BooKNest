@@ -1,83 +1,92 @@
 [
     {
         "id":1,
-        "name":"Chetan Bhagat",
-        "title":"2 states",
+        "name":" Morgan Housel",
+        "title":"The Psychology of Money",
         "price":0,
         "category":"free",
-        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdmzfyGqcn3FMvymebjX_xuKLo3S2aVXl6MeF27teozQ&s"
+        "image":"https://m.media-amazon.com/images/I/51JemODRExL._SL500_.jpg"
         
     },
     {
         "id":2,
-        "name":"Chetan Bhagat",
-        "title":"3 states",
+        "name":"Leil Lowndes",
+        "title":"How to Talk to Anyone",
         "price":0,
         "category":"free",
-        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdmzfyGqcn3FMvymebjX_xuKLo3S2aVXl6MeF27teozQ&s"
+        "image":"https://m.media-amazon.com/images/I/51hAGh15bTL._SL500_.jpg"
         
     },
     {
         "id":3,
-        "name":"Chetan Bhagat",
-        "title":"Lorem ipsum dolor sit amet",
+        "name":" Héctor García",
+        "title":"Ikigai",
         "price":0,
         "category":"free",
-        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdmzfyGqcn3FMvymebjX_xuKLo3S2aVXl6MeF27teozQ&s"
+        "image":"https://m.media-amazon.com/images/I/511HccWipML._SL500_.jpg"
         
     },
     {
         "id":4,
-        "name":"Chetan Bhagat",
-        "title":"Lorem ipsum dolor sit amet",
-        "price":100,
+        "name":" James Clear",
+        "title":"Atomic Habits",
+        "price":0,
         "category":"free",
-        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdmzfyGqcn3FMvymebjX_xuKLo3S2aVXl6MeF27teozQ&s"
+        "image":"https://m.media-amazon.com/images/I/41wuB-s8vRL._SL500_.jpg"
         
     },
     {
         "id":5,
-        "name":"Chetan Bhagat",
-        "title":"Lorem ipsum dolor sit amet",
-        "price":50,
+        "name":"Joseph Nguyen",
+        "title":"Don't Believe Everything You Think",
+        "price":0,
         "category":"free",
-        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdmzfyGqcn3FMvymebjX_xuKLo3S2aVXl6MeF27teozQ&s"
+        "image":"https://m.media-amazon.com/images/I/41F-Hh7F4fL._SL500_.jpg"
         
     },
     {
         "id":6,
-        "name":"Chetan Bhagat",
-        "title":"Lorem ipsum dolor sit amet",
-        "price":56,
+        "name":"Mark Manson",
+        "title":"The Subtle Art of Not Giving a F*ck",
+        "price":0,
         "category":"free",
-        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdmzfyGqcn3FMvymebjX_xuKLo3S2aVXl6MeF27teozQ&s"
+        "image":"https://m.media-amazon.com/images/I/51MT0MbpD7L._SL500_.jpg"
         
     },
     {
         "id":7,
-        "name":"Chetan Bhagat",
-        "title":"Lorem ipsum dolor sit amet",
-        "price":56,
+        "name":" Fumitake Koga",
+        "title":"The Courage to Be Disliked ",
+        "price":0,
         "category":"free",
-        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdmzfyGqcn3FMvymebjX_xuKLo3S2aVXl6MeF27teozQ&s"
+        "image":"https://m.media-amazon.com/images/I/61cPVdbOg4L._SL500_.jpg"
         
     },
     {
         "id":8,
-        "name":"Chetan Bhagat",
-        "title":"Lorem ipsum dolor sit amet",
-        "price":56,
+        "name":" Robert T. Kiyosaki",
+        "title":"Rich Dad Poor Dad",
+        "price":0,
         "category":"free",
-        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdmzfyGqcn3FMvymebjX_xuKLo3S2aVXl6MeF27teozQ&s"
+        "image":"https://m.media-amazon.com/images/I/51AHZGhzZEL._SL500_.jpg"
         
     },
     {
         "id":9,
-        "name":"Chetan Bhagat",
-        "title":"Lorem ipsum dolor sit amet",
-        "price":56,
+        "name":" Chris Bailey",
+        "title":"Hyperfocus",
+        "price":0,
         "category":"free",
-        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdmzfyGqcn3FMvymebjX_xuKLo3S2aVXl6MeF27teozQ&s"
+        "image":"https://m.media-amazon.com/images/I/51q79VOidaL._SL500_.jpg"
+        
+    },
+    {
+        "id":10,
+        "name":" Robin Sharma",
+        "title":"The 5 AM Club",
+        "price":0,
+        "category":"free",
+        "image":"https://m.media-amazon.com/images/I/41gSraGHXUL._SL500_.jpg"
         
     }
 ]

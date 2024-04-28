@@ -1,7 +1,8 @@
 import React, { useEffect, useState } from "react";
 import FreeBook from "./FreeBook";
 import Login from "./Login";
-
+import Contact from "./Contact";
+import About from "./About";
 function Navbar() {
   const [theme, setTheme] = useState(
     localStorage.getItem("theme") ? localStorage.getItem("theme") : "light"
@@ -43,10 +44,10 @@ function Navbar() {
         <a href="/Courses">Course</a>
       </li>
       <li key="contact">
-        <a href="#">Contact</a>
+        <a href="/Contact">Contact</a>
       </li>
       <li key="about">
-        <a href="#">About</a>
+        <a href="/About">About</a>
       </li>
     </>
   );

@@ -8,7 +8,7 @@ const Course = () => {
   return (
     <>
       <div className="max-w-screen-2xl container mx-auto md:px-20 px-4">
-        <div className="mt-28 item-center justify-center text-center">
+        <div className="mt-20 item-center justify-center text-center  dark:bg-slate-900 dark:text-white">
           <h1 className="text-4xl   md:text-4xl">
             {" "}
             We'r Delighted To Have You
